@@ -21,7 +21,8 @@ h2 {
     color: maroon;
 }
 .references, .experience {
-    background-color: mistyrose ;
+    background-color: mistyrose;
+    margin-left: none;
 }
 h1 {
     color: white;
@@ -31,7 +32,7 @@ h1 {
 }
 .info {
     background-color: white;
-    margin-left: 20px;
+    margin-left: none;
 }
 .info2 {
     background-color: mistyrose;
@@ -41,5 +42,5 @@ h1 {
     border: 5px solid white;
 }
 #objective {
-    margin-left: 40px;
+    margin-left: none;
 }
